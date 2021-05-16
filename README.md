@@ -21,7 +21,7 @@ This application needs to install:
 To get started clone this repository using
 
 git clone git@github.com:ttheis1611/EcommerceBackEndWk13.git
-Both Node.js and MySQL must be installed on your computer.
+Both Node.js and MySQL must be installed on your computer. Demo at https://drive.google.com/file/d/1JlaBl-yXjy7S6iMk5zFGAXVXSF2WiDRf/view
 
 Install dependencies
 
@@ -52,10 +52,7 @@ Npm [Dotenv, Sequelize, Express, MySql]
  
 
 ### Demo Link
-![DemoLink](./images/DEMO_ETM.webm)
-![Demo](https://drive.google.com/file/d/1E2GUGVQkGK_-g8RrCHHY4XNTPHmRER5l/view)
-
-
+[Demo](https://drive.google.com/file/d/1JlaBl-yXjy7S6iMk5zFGAXVXSF2WiDRf/view)
 
 
 ## Contributing
