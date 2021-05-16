@@ -46,9 +46,9 @@ Npm [Dotenv, Sequelize, Express, MySql]
   
 ### Screenshots
 
-![Insomnia](./images/Insomnia.png)
+![Insomnia](./images/Insomnia.PNG)
  
-![VSCode](./images/VSsetUp.png)
+![VSCode](./images/VSsetUp.PNG)
  
 
 ### Demo Link
