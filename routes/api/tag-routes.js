@@ -29,10 +29,12 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new tag
-  Tag.create(req.body)
-  
-  .then(dbCreate => {
-    res.status(200).json(dbCreate);
+  Tag.create({
+    tag_name: req.body.tag_name
+  })
+  .then(dbCreate => res.json(dbCreate))
+  .catch(err => {
+    res.status(500).json(err);
   });
 });
 
